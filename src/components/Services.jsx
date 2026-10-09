@@ -2,7 +2,7 @@ const services = [
   {
     icon: 'fas fa-palette',
     title: 'Frontend Development',
-    text: 'Responsive, accessible interfaces with HTML5, CSS3, JavaScript, TypeScript & Bootstrap.',
+    text: 'Responsive, accessible interfaces with HTML5, CSS3, JavaScript, React, TypeScript & Bootstrap.',
   },
   {
     icon: 'fas fa-server',
