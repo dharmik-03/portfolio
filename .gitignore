@@ -1,0 +1,4 @@
+node_modules
+dist
+scripts/.rendered.html
+scripts/.ssr-out.cjs
